@@ -1,1 +1,0 @@
-write a python function to check whether a number is prime with edge test cases
